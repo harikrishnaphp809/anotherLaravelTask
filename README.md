@@ -17,3 +17,4 @@ git pull origin branch_name
 development                          UAT                          Production(live)
 develop                              uat                            prod
 
+take pull
